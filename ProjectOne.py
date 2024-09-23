@@ -12,7 +12,7 @@ def load_json_data(file_path, key_mapping):
                     }
                     for entry in data
                 ]
-
+ 
 
 """Assemble matrix A and vector b for Ax = b."""
 def assemble_system_matrices(resistance_list, voltage_nodes):
