@@ -118,9 +118,9 @@ def write_results(output_path, voltages, currents, node_indices):
 
 if __name__ == "__main__":
     # Replace with your actual file paths
-    resistance_file = '/Users/nihalpai/Documents/Linear Algebra/Linear-Algebra-Project1/node_resistances.json'
-    voltage_file = '/Users/nihalpai/Documents/Linear Algebra/Linear-Algebra-Project1/node_voltages.json'
-    output_file = '/Users/nihalpai/Documents/Linear Algebra/Linear-Algebra-Project1/output_results.txt'
+    resistance_file = '/absolute/path/to/node_resistances.json'
+    voltage_file = '/absolute/path/to/node_voltages.json'
+    output_file = '/absolute/path/to/output_results.txt'
 
     # Load resistances and voltage constraints
     resistance_list = load_json_data(resistance_file, {'node1': 'node_start', 'node2': 'node_end', 'resistance': 'value'})

@@ -1,0 +1,68 @@
+Node Voltages:
+Node 1: 10.00 V
+Node 2: 8.27 V
+Node 3: 7.03 V
+Node 4: 6.08 V
+Node 5: 5.72 V
+Node 6: 7.79 V
+Node 7: 7.00 V
+Node 8: 6.29 V
+Node 9: 5.55 V
+Node 10: 5.22 V
+Node 11: 6.71 V
+Node 12: 6.02 V
+Node 13: 5.42 V
+Node 14: 4.68 V
+Node 15: 4.27 V
+Node 16: 5.97 V
+Node 17: 5.26 V
+Node 18: 4.59 V
+Node 19: 3.57 V
+Node 20: 2.73 V
+Node 21: 5.59 V
+Node 22: 4.83 V
+Node 23: 4.04 V
+Node 24: 2.46 V
+Node 25: 0.00 V
+
+Currents through each link:
+Link 1 - 2: 0.86 A
+Link 1 - 6: 0.74 A
+Link 2 - 3: 0.50 A
+Link 2 - 7: 0.36 A
+Link 3 - 4: 0.32 A
+Link 3 - 8: 0.18 A
+Link 4 - 5: 0.14 A
+Link 4 - 9: 0.17 A
+Link 5 - 10: 0.14 A
+Link 6 - 7: 0.20 A
+Link 6 - 11: 0.54 A
+Link 7 - 8: 0.28 A
+Link 7 - 12: 0.28 A
+Link 8 - 9: 0.25 A
+Link 8 - 13: 0.22 A
+Link 9 - 10: 0.13 A
+Link 9 - 14: 0.29 A
+Link 10 - 15: 0.27 A
+Link 11 - 12: 0.17 A
+Link 11 - 16: 0.37 A
+Link 12 - 13: 0.24 A
+Link 12 - 17: 0.22 A
+Link 13 - 14: 0.25 A
+Link 13 - 18: 0.21 A
+Link 14 - 15: 0.17 A
+Link 14 - 19: 0.37 A
+Link 15 - 20: 0.44 A
+Link 16 - 17: 0.18 A
+Link 16 - 21: 0.19 A
+Link 17 - 18: 0.27 A
+Link 17 - 22: 0.12 A
+Link 18 - 19: 0.34 A
+Link 18 - 23: 0.14 A
+Link 19 - 20: 0.34 A
+Link 19 - 24: 0.37 A
+Link 20 - 25: 0.78 A
+Link 21 - 22: 0.19 A
+Link 22 - 23: 0.31 A
+Link 23 - 24: 0.45 A
+Link 24 - 25: 0.82 A
